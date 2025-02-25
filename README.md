@@ -9,4 +9,4 @@
 
 -[EX01_03_Rock_Paper_Scissors](EX01_03_Rock_Paper_Scissors.ipynb)
 
--[EX01_03_Rock_Paper_Scissors](EX01_03_Rock_Paper_Scissors.ipynb)
+-[EX01_04_終極密碼](EX01_04_終極密碼.ipynb)
